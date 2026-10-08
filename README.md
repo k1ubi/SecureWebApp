@@ -1,21 +1,5 @@
 <div align="center">
-
-```
- _____ _____ _____ _   _______ _____   _    _ ___________  ___  ____________ 
-/  ___|  ___/  __ \ | | | ___ \  ___| | |  | |  ___| ___ \/ _ \ | ___ \ ___ \
-\ `--.| |__ | /  \/ | | | |_/ / |__   | |  | | |__ | |_/ / /_\ \| |_/ / |_/ /
- `--. \  __|| |   | | | |    /|  __|  | |/\| |  __|| ___ \  _  ||  __/|  __/ 
-/\__/ / |___| \__/\ |_| | |\ \| |___  \  /\  / |___| |_/ / | | || |   | |    
-\____/\____/ \____/\___/\_| \_\____/   \/  \/\____/\____/\_| |_/\_|   \_|    
-```
-
-`[ AES session tokens :: salted SHA-256 :: upload sanitation :: HTTPS-enforced ]`
-
-![java](https://img.shields.io/badge/JAVA-ff00c8?style=for-the-badge&logo=openjdk&logoColor=00fff9&labelColor=0a0014)
-![mysql](https://img.shields.io/badge/MYSQL-00fff9?style=for-the-badge&logo=mysql&logoColor=0a0014&labelColor=0a0014)
-![tomcat](https://img.shields.io/badge/TOMCAT-ff00c8?style=for-the-badge&logo=apachetomcat&logoColor=00fff9&labelColor=0a0014)
-![status](https://img.shields.io/badge/STATUS-MASTER'S_THESIS_BUILD-00fff9?style=for-the-badge&labelColor=0a0014)
-
+<img src="./assets/hero.svg" width="100%"/>
 </div>
 
 <br>
